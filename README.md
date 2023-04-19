@@ -13,7 +13,10 @@ Digite as informações que irão ser salvas em "dados.txt", o sistema gera auto
 
 Quando a opção de login for selecionada, digite a o usuário e senha ja cadastrados e o sistema irá varrer o arquivo em busca das informações.
 
-![jumpscaremtassustador](https://user-images.githubusercontent.com/108163958/232924825-698d9f3c-66c4-4a1f-801e-919155d78859.png)
+<p align="left"> 
+  <a href="https://github.com/kkmood/Adachi/blob/main/index.html" target="_blank" rel="noreferrer"> 
+    <img src=https://user-images.githubusercontent.com/108163958/232924825-698d9f3c-66c4-4a1f-801e-919155d78859.png alt="adachi" width="40" height="40"/> 
+
 
 
 
