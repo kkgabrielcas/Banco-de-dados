@@ -36,7 +36,7 @@ public class BancoDeDados {
             System.out.println("|LOGIN| Digite a senha: ");
             String l_senha = log_senha.nextLine();
 
-            String caminhoDADOS = "C:/Users/Gabriel Castro/Downloads/dados.txt"; //Insira o diretório onde o banco de dados se localiza. EX: "C:/Users/Bob/Downloads/dados.txt"
+            String caminhoDADOS = "C:/Users/NOME100%REAL/Downloads/dados.txt"; //Insira o diretório onde o banco de dados se localiza. EX: "C:/Users/Bob/Downloads/dados.txt"
                                                                                                     //Abaixo se localiza o local de criação do mesmo    
             try (BufferedReader br = new BufferedReader(new FileReader(caminhoDADOS))) {
                 String linha;
@@ -74,7 +74,7 @@ public class BancoDeDados {
             //Criando o Banco de Dados
             final String ARQUIVO = "dados.txt";
             try {
-                File DADOS = new File("C:/Users/Gabriel Castro/Downloads/" + ARQUIVO); //Insira o diretório onde o banco de dados será gerado. EX: "C:/Users/Bob/Downloads/"
+                File DADOS = new File("C:/Users/NOME100%REAL/" + ARQUIVO); //Insira o diretório onde o banco de dados será gerado. EX: "C:/Users/Bob/Downloads/"
                 
                 //Salvando as informações
                 FileWriter salvar = new FileWriter(DADOS, true);
