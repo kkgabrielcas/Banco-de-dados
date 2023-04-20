@@ -23,7 +23,7 @@ Quando a opção de login for selecionada, digite a o usuário e senha ja cadast
 * Tenha certeza que os diretórios de 𝐜𝐫𝐢𝐚çã𝐨 𝐝𝐨 𝐛𝐚𝐧𝐜𝐨 𝐝𝐞 𝐝𝐚𝐝𝐨𝐬 e de 𝐥𝐞𝐢𝐭𝐮𝐫𝐚 do mesmo estão corretos.
 
 ```java
-String caminhoDADOS = "C:/Users/BOB/NOME100%REAL/dados.txt"; //Onde está localizado
+String caminhoDADOS = "C:/Users/NOME100%REAL/dados.txt"; //Onde está localizado
 ```
 ```java
 File DADOS = new File("C:/Users/NOME100%REAL/Downloads/" + ARQUIVO); //Onde será gerado
