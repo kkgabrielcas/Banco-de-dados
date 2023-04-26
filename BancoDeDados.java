@@ -109,10 +109,6 @@ public class BancoDeDados {
             log_senha.close();
             System.out.println("Saindo...");
             System.exit(0);
-
-            //Opção Inválida
-            default:
-            System.out.println("Opção inválida! ");
             
             }
         } 
